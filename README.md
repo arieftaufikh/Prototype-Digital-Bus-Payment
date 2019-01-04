@@ -1,4 +1,4 @@
-# Prototype-Digital-Bus-Payment-Mobile-App
+# Prototype Digital Bus Payment Mobile-App
 Prototype System Digital Bus Payment System using QR Code
 
 
